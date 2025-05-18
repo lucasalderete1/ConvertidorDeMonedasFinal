@@ -88,6 +88,3 @@ private static final String API_KEY = "tu-key-aquí";
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/lucasalderete1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-covi/)
-
-## 📄 Licencia
-MIT License - Ver archivo [LICENSE](LICENSE)
